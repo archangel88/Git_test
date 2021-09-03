@@ -1,3 +1,3 @@
-$ (function (){
-   console.log("YES");
+$ (function(){
+     console.log("YES");
 });
